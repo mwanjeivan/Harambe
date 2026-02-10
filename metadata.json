@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of HarambeeConnect - FaaS Platform",
+  "description": "A socio-fintech fundraising-as-a-service platform integrated with WhatsApp and Mobile Money for community events like weddings and funerals.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
